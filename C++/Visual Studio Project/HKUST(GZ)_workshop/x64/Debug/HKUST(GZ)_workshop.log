@@ -1,0 +1,9 @@
+﻿  C.cpp
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\HKUST(GZ)_workshop\C.cpp(15,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\HKUST(GZ)_workshop\C.cpp(22,11): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\HKUST(GZ)_workshop\C.cpp(37,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\HKUST(GZ)_workshop\C.cpp(41,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\HKUST(GZ)_workshop\C.cpp(53,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\HKUST(GZ)_workshop\C.cpp(57,12): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\HKUST(GZ)_workshop\C.cpp(15): error C4700: 使用了未初始化的局部变量“a0”
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\HKUST(GZ)_workshop\C.cpp(22): error C4700: 使用了未初始化的局部变量“b0”

@@ -1,0 +1,12 @@
+﻿  指针和数组.cpp
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(8,13): warning C4311: “<function-style-cast>”: 从“int *”到“int”的指针截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(8,13): warning C4302: “<function-style-cast>”: 从“int *”到“int”截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(9,13): warning C4311: “<function-style-cast>”: 从“int *”到“int”的指针截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(9,13): warning C4302: “<function-style-cast>”: 从“int *”到“int”截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(10,13): warning C4311: “<function-style-cast>”: 从“int *”到“int”的指针截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(10,13): warning C4302: “<function-style-cast>”: 从“int *”到“int”截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(13,13): warning C4311: “<function-style-cast>”: 从“int *”到“int”的指针截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(13,13): warning C4302: “<function-style-cast>”: 从“int *”到“int”截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(15,13): warning C4311: “<function-style-cast>”: 从“int *”到“int”的指针截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\指针和数组.cpp(15,13): warning C4302: “<function-style-cast>”: 从“int *”到“int”截断
+  Project3.vcxproj -> C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\Project3\x64\Debug\Project3.exe

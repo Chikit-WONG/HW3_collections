@@ -1,0 +1,6 @@
+student_infomation=('Henry',11,['football','music'])
+print(student_infomation.index(11))
+print(student_infomation[0])
+student_infomation[2].remove('football')
+student_infomation[2].append('coding')
+print(student_infomation)

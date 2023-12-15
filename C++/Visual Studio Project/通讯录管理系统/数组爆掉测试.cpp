@@ -1,0 +1,20 @@
+#include<iostream>
+#include<string>
+using namespace std;
+struct subtest
+{
+	int a;
+	string b;
+};
+struct test
+{
+	subtest arr[3];
+};
+int main()
+{
+	test abs;
+	
+	cout << abs.arr[0].a << endl;
+	system("pause");
+	return 0;
+}

@@ -1,0 +1,6 @@
+﻿  结构体和指针.cpp
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\结构体和指针\结构体和指针.cpp(19,15): warning C4311: “<function-style-cast>”: 从“main::s *”到“int”的指针截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\结构体和指针\结构体和指针.cpp(19,15): warning C4302: “<function-style-cast>”: 从“main::s *”到“int”截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\结构体和指针\结构体和指针.cpp(22,16): warning C4311: “<function-style-cast>”: 从“main::s *”到“int”的指针截断
+C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\结构体和指针\结构体和指针.cpp(22,16): warning C4302: “<function-style-cast>”: 从“main::s *”到“int”截断
+  结构体和指针.vcxproj -> C:\Users\WONG，Chi Kit\Desktop\code\C++\Visual Studio Project\结构体和指针\x64\Debug\结构体和指针.exe

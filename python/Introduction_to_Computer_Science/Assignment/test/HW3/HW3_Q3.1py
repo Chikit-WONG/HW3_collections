@@ -1,0 +1,15 @@
+# Get the number of rows from user input
+n=int(input("Enter the number of rows: "))
+# Initialize variables
+row=1
+num_asterisks=1
+# Outer while loop for iterating through rows
+while row<=2*n-1:
+    # Inner loop for spaces before asterisks
+    spaces=(abs(n-row))*" "
+    print(spaces+num_asterisks*"*")
+    row+=1
+    if row<=n:
+        num_asterisks+=2
+    elif row>n:
+        num_asterisks-=2
